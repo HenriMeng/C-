@@ -1,0 +1,14 @@
+c:\users\henri\source\repos\Addition\Addition\bin\Debug\Addition.exe.config
+c:\users\henri\source\repos\Addition\Addition\bin\Debug\Addition.exe
+c:\users\henri\source\repos\Addition\Addition\bin\Debug\Addition.pdb
+c:\users\henri\source\repos\Addition\Addition\obj\Debug\Addition.csprojAssemblyReference.cache
+c:\users\henri\source\repos\Addition\Addition\obj\Debug\Addition.csproj.CoreCompileInputs.cache
+c:\users\henri\source\repos\Addition\Addition\obj\Debug\Addition.exe
+c:\users\henri\source\repos\Addition\Addition\obj\Debug\Addition.pdb
+C:\Users\henri\source\repos\C#\Addition\Addition\bin\Debug\Addition.exe.config
+C:\Users\henri\source\repos\C#\Addition\Addition\bin\Debug\Addition.exe
+C:\Users\henri\source\repos\C#\Addition\Addition\bin\Debug\Addition.pdb
+C:\Users\henri\source\repos\C#\Addition\Addition\obj\Debug\Addition.csprojAssemblyReference.cache
+C:\Users\henri\source\repos\C#\Addition\Addition\obj\Debug\Addition.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\C#\Addition\Addition\obj\Debug\Addition.exe
+C:\Users\henri\source\repos\C#\Addition\Addition\obj\Debug\Addition.pdb

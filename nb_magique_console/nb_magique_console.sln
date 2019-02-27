@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nb_magique_console", "nb_magique_console\nb_magique_console.csproj", "{637E93E1-0CEB-4F05-8BFF-197F52D015AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{637E93E1-0CEB-4F05-8BFF-197F52D015AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637E93E1-0CEB-4F05-8BFF-197F52D015AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637E93E1-0CEB-4F05-8BFF-197F52D015AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637E93E1-0CEB-4F05-8BFF-197F52D015AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9631A24-6ABA-4E70-9F51-F626A7716FB0}
+	EndGlobalSection
+EndGlobal

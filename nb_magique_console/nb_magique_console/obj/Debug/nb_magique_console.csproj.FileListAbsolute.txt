@@ -1,0 +1,14 @@
+C:\Users\henri\source\repos\nb_magique_console\nb_magique_console\obj\Debug\nb_magique_console.csprojAssemblyReference.cache
+C:\Users\henri\source\repos\nb_magique_console\nb_magique_console\obj\Debug\nb_magique_console.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\nb_magique_console\nb_magique_console\bin\Debug\nb_magique_console.exe.config
+C:\Users\henri\source\repos\nb_magique_console\nb_magique_console\bin\Debug\nb_magique_console.exe
+C:\Users\henri\source\repos\nb_magique_console\nb_magique_console\bin\Debug\nb_magique_console.pdb
+C:\Users\henri\source\repos\nb_magique_console\nb_magique_console\obj\Debug\nb_magique_console.exe
+C:\Users\henri\source\repos\nb_magique_console\nb_magique_console\obj\Debug\nb_magique_console.pdb
+C:\Users\henri\source\repos\C#\nb_magique_console\nb_magique_console\bin\Debug\nb_magique_console.exe.config
+C:\Users\henri\source\repos\C#\nb_magique_console\nb_magique_console\bin\Debug\nb_magique_console.exe
+C:\Users\henri\source\repos\C#\nb_magique_console\nb_magique_console\bin\Debug\nb_magique_console.pdb
+C:\Users\henri\source\repos\C#\nb_magique_console\nb_magique_console\obj\Debug\nb_magique_console.csprojAssemblyReference.cache
+C:\Users\henri\source\repos\C#\nb_magique_console\nb_magique_console\obj\Debug\nb_magique_console.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\C#\nb_magique_console\nb_magique_console\obj\Debug\nb_magique_console.exe
+C:\Users\henri\source\repos\C#\nb_magique_console\nb_magique_console\obj\Debug\nb_magique_console.pdb
